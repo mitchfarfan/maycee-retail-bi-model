@@ -71,16 +71,22 @@ Customer activity, repeat behaviour, basic segmentation, contribution to revenue
 
 ---
 
-## **5. Model Structure**  
+## 5. Model Structure
 The BI model is built using:
 
-- **Fact tables** for sales, inventory, returns  
-- **Dimension tables** for products, customers, dates, stores  
-- **Semantic layer** for business‑ready fields  
-- **Time‑intelligence layer** for comparative reporting  
-- **KPI layer** for structured performance metrics  
+- Fact tables for sales, inventory, returns  
+- Dimension tables for products, customers, dates, stores  
+- Semantic layer for business‑ready fields  
+- Time‑intelligence layer for comparative reporting  
+- KPI layer for structured performance metrics  
 
 This structure supports scalable reporting and clear commercial insights.
+
+## Semantic Model (Power BI)
+Below is the semantic model used for the Maycee Retail BI system.  
+It shows the fact/dimension structure, relationships, and KPI measure layer.
+
+![Maycee Retail Semantic Model](screenshots/maycee-retail-model-view.png)
 
 ---
 
