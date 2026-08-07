@@ -51,23 +51,24 @@ This provides a realistic environment for building commercial reporting and KPI 
 
 ---
 
-## **4. KPI Frameworks**  
-### **Sales KPIs**  
+## 4. KPI Frameworks
+The model includes a structured KPI layer organised into Sales, Margin, Inventory, Returns, and Customer KPI groups.  
+These KPIs support commercial reporting across core retail functions.
+
+### **Sales KPIs**
 Revenue, units sold, average selling price, period comparisons.
 
-### **Margin KPIs**  
-Gross margin $, margin %, discount impact, profitability trends.
+### **Margin KPIs**
+Gross margin $, margin %, profitability trends.
 
-### **Inventory KPIs**  
-Stock levels, stock movement, sell‑through, ageing indicators.
+### **Inventory KPIs**
+Stock levels, stock movement, ageing indicators.
 
-### **Returns KPIs**  
+### **Returns KPIs**
 Return rate, return value, product‑level return behaviour.
 
-### **Customer KPIs**  
+### **Customer KPIs**
 Customer activity, repeat behaviour, basic segmentation, contribution to revenue.
-
-*(More detailed Customer KPIs will be added Monday/Tuesday.)*
 
 ---
 
