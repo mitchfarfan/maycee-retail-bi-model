@@ -1,6 +1,18 @@
 ## **Maycee Retail BI Model (WIP)**  
 A retail BI system built in Power BI with semantic modelling, time‑intelligence, and KPI frameworks across Sales, Margin, Inventory, Returns, and Customer metrics. Designed for clear reporting, performance tracking, and practical commercial insights.
 
+**Latest Update (Aug 2026):** Public dashboard link added; Page 2 trend analysis now live.
+
+---
+
+## Live Dashboard (Public)
+The Maycee Retail BI dashboard is published publicly via Power BI Service.
+
+🔗 **View the live report:**  
+https://app.powerbi.com/view?r=eyJrIjoiY2NmODk3NWQtNmE5ZC00MjY3LTk3ZTktNzk2ZWY4ZTk2Zjc4IiwidCI6ImZjN2U5OTZiLWVhYjAtNDcxZS05NTUwLTY0ZjUzZTQ1ODdhYyJ9&embedImagePlaceholder=true
+
+This WIP version includes KPI frameworks, time‑intelligence, and Page 2 Product & Margin trend analysis.
+
 ---
 
 ## **1. Project Scope**  
@@ -80,7 +92,6 @@ This structure supports scalable reporting and clear commercial insights.
 ---
 
 ## **7. Status**  
-This project is actively being developed.  
-Additional KPIs, documentation, and screenshots will be added early next week.
+This repository is updated progressively as new modelling, KPIs, and visuals are completed.
 
 ---
